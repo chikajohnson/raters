@@ -1,0 +1,19 @@
+{
+  "name": "lab2",
+  "version": "2.0.0",
+  "description": "JQuery to Lab 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jQuery",
+    "Javascript",
+    "EDX"
+  ],
+  "devDependencies" : {
+    "jquery": "^3.1.0"
+  },
+  "author": "Johnson",
+  "license": "ISC"
+}
